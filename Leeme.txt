@@ -1,0 +1,10 @@
+Minimo sdk api 24 android 7.0
+
+Grdle version 8.0
+
+Compile SDK version 34(API 34)
+
+
+--Este codigo servidor acepta muchos clientes cocnetados, envia msj y recibe, al igual que imagenes.
+--Para probar instale las apk de cliente en distintos moviles y la apk del servidor en un movil
+  primero proceda a iniciar el servidor luego inicie todos los clientes que quiera y luego a chatear entre clientes.
